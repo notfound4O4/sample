@@ -8,4 +8,4 @@ public interface ConnectionMaker {
 	public abstract Connection makeConnection() throws ClassNotFoundException,
 			SQLException;
 
-}
+} 
